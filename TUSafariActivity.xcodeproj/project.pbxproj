@@ -7,26 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		73227ACF1F18942D00EB0565 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 73227AAA1F18942D00EB0565 /* .gitkeep */; };
+		03A062B222CB2F4D00125A76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03A062B122CB2F4D00125A76 /* Assets.xcassets */; };
 		73227AD01F18942D00EB0565 /* TUSafariActivity.strings in Resources */ = {isa = PBXBuildFile; fileRef = 73227AAB1F18942D00EB0565 /* TUSafariActivity.strings */; };
-		73227AD11F18942D00EB0565 /* safari-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227ABC1F18942D00EB0565 /* safari-7.png */; };
-		73227AD21F18942D00EB0565 /* safari-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227ABD1F18942D00EB0565 /* safari-7@2x.png */; };
-		73227AD31F18942D00EB0565 /* safari-7@2x~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227ABE1F18942D00EB0565 /* safari-7@2x~iPad.png */; };
-		73227AD41F18942D00EB0565 /* safari-7@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227ABF1F18942D00EB0565 /* safari-7@3x.png */; };
-		73227AD51F18942D00EB0565 /* safari-7~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC01F18942D00EB0565 /* safari-7~iPad.png */; };
-		73227AD61F18942D00EB0565 /* safari.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC11F18942D00EB0565 /* safari.png */; };
-		73227AD71F18942D00EB0565 /* safari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC21F18942D00EB0565 /* safari@2x.png */; };
-		73227AD81F18942D00EB0565 /* safari@2x~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC31F18942D00EB0565 /* safari@2x~iPad.png */; };
-		73227AD91F18942D00EB0565 /* safari@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC41F18942D00EB0565 /* safari@3x.png */; };
-		73227ADA1F18942D00EB0565 /* safari~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC51F18942D00EB0565 /* safari~iPad.png */; };
 		73227ADC1F18942D00EB0565 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 73227ACD1F18942D00EB0565 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73227ADD1F18942D00EB0565 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 73227ACE1F18942D00EB0565 /* TUSafariActivity.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03A062B122CB2F4D00125A76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73227A9B1F1893F000EB0565 /* TUSafariActivity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TUSafariActivity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73227AA61F18942800EB0565 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		73227AAA1F18942D00EB0565 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		73227AAC1F18942D00EB0565 /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227AAD1F18942D00EB0565 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227AAE1F18942D00EB0565 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
@@ -43,22 +33,11 @@
 		73227AB91F18942D00EB0565 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227ABA1F18942D00EB0565 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227ABB1F18942D00EB0565 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		73227ABC1F18942D00EB0565 /* safari-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7.png"; sourceTree = "<group>"; };
-		73227ABD1F18942D00EB0565 /* safari-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@2x.png"; sourceTree = "<group>"; };
-		73227ABE1F18942D00EB0565 /* safari-7@2x~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@2x~iPad.png"; sourceTree = "<group>"; };
-		73227ABF1F18942D00EB0565 /* safari-7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@3x.png"; sourceTree = "<group>"; };
-		73227AC01F18942D00EB0565 /* safari-7~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7~iPad.png"; sourceTree = "<group>"; };
-		73227AC11F18942D00EB0565 /* safari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = safari.png; sourceTree = "<group>"; };
-		73227AC21F18942D00EB0565 /* safari@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@2x.png"; sourceTree = "<group>"; };
-		73227AC31F18942D00EB0565 /* safari@2x~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@2x~iPad.png"; sourceTree = "<group>"; };
-		73227AC41F18942D00EB0565 /* safari@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@3x.png"; sourceTree = "<group>"; };
-		73227AC51F18942D00EB0565 /* safari~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari~iPad.png"; sourceTree = "<group>"; };
 		73227AC61F18942D00EB0565 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227AC71F18942D00EB0565 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227AC81F18942D00EB0565 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227AC91F18942D00EB0565 /* zh_Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_Hans; path = zh_Hans.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		73227ACA1F18942D00EB0565 /* zh_Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_Hant; path = zh_Hant.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		73227ACC1F18942D00EB0565 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		73227ACD1F18942D00EB0565 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
 		73227ACE1F18942D00EB0565 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TUSafariActivity.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,7 +56,7 @@
 		73227A911F1893F000EB0565 = {
 			isa = PBXGroup;
 			children = (
-				73227AA81F18942D00EB0565 /* Pod */,
+				73227AA81F18942D00EB0565 /* TUSafariActivity */,
 				73227AA61F18942800EB0565 /* Info.plist */,
 				73227A9C1F1893F000EB0565 /* Products */,
 			);
@@ -91,30 +70,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		73227AA81F18942D00EB0565 /* Pod */ = {
+		73227AA81F18942D00EB0565 /* TUSafariActivity */ = {
 			isa = PBXGroup;
 			children = (
 				73227AA91F18942D00EB0565 /* Assets */,
 				73227ACB1F18942D00EB0565 /* Classes */,
 			);
-			path = Pod;
+			path = TUSafariActivity;
 			sourceTree = "<group>";
 		};
 		73227AA91F18942D00EB0565 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				73227AAA1F18942D00EB0565 /* .gitkeep */,
+				03A062B122CB2F4D00125A76 /* Assets.xcassets */,
 				73227AAB1F18942D00EB0565 /* TUSafariActivity.strings */,
-				73227ABC1F18942D00EB0565 /* safari-7.png */,
-				73227ABD1F18942D00EB0565 /* safari-7@2x.png */,
-				73227ABE1F18942D00EB0565 /* safari-7@2x~iPad.png */,
-				73227ABF1F18942D00EB0565 /* safari-7@3x.png */,
-				73227AC01F18942D00EB0565 /* safari-7~iPad.png */,
-				73227AC11F18942D00EB0565 /* safari.png */,
-				73227AC21F18942D00EB0565 /* safari@2x.png */,
-				73227AC31F18942D00EB0565 /* safari@2x~iPad.png */,
-				73227AC41F18942D00EB0565 /* safari@3x.png */,
-				73227AC51F18942D00EB0565 /* safari~iPad.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -122,7 +91,6 @@
 		73227ACB1F18942D00EB0565 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				73227ACC1F18942D00EB0565 /* .gitkeep */,
 				73227ACD1F18942D00EB0565 /* TUSafariActivity.h */,
 				73227ACE1F18942D00EB0565 /* TUSafariActivity.m */,
 			);
@@ -181,6 +149,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				ca,
 				cs,
@@ -219,17 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				73227AD01F18942D00EB0565 /* TUSafariActivity.strings in Resources */,
-				73227AD91F18942D00EB0565 /* safari@3x.png in Resources */,
-				73227AD81F18942D00EB0565 /* safari@2x~iPad.png in Resources */,
-				73227AD31F18942D00EB0565 /* safari-7@2x~iPad.png in Resources */,
-				73227AD71F18942D00EB0565 /* safari@2x.png in Resources */,
-				73227AD51F18942D00EB0565 /* safari-7~iPad.png in Resources */,
-				73227AD11F18942D00EB0565 /* safari-7.png in Resources */,
-				73227ADA1F18942D00EB0565 /* safari~iPad.png in Resources */,
-				73227AD41F18942D00EB0565 /* safari-7@3x.png in Resources */,
-				73227AD21F18942D00EB0565 /* safari-7@2x.png in Resources */,
-				73227ACF1F18942D00EB0565 /* .gitkeep in Resources */,
-				73227AD61F18942D00EB0565 /* safari.png in Resources */,
+				03A062B222CB2F4D00125A76 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,7 +348,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.davbeck.TUSafariActivity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -408,7 +367,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.davbeck.TUSafariActivity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
